@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+.bl1{
+    display: flex;
+    border-width: 2px;
+    border-color: grey;
+    border-style: solid;
+    background-color:rebeccapurple ;
+}
+.bl2{
+    background-color:rebeccapurple ;
+    width: 100px;
+    border-color: grey;
+    margin: 1px;
+}
+#iml{
+    width: 200px;
+    height: 150px; 
+    float: right;   
+}
+#iml:hover{
+width: 400px;
+height: 300px;
+border-radius: 50%;
+}
